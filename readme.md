@@ -86,11 +86,5 @@ python app.py
 - System Latency (<1s per query)
 - Comparative Analysis with Baselines
 
-## License
 
-[MIT License](LICENSE)
 
-## Contributors
-
-- Nikhil Singh
-- Aditya Singh
