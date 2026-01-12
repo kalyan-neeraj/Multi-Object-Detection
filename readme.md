@@ -1,4 +1,4 @@
-# EyeSeeYou: Neuro-Symbolic Visual Reasoning System
+# Neuro-Symbolic Visual Reasoning System
 
 
 A computer vision project that combines neural networks and symbolic reasoning to understand and answer questions about visual scenes.
